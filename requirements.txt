@@ -27,7 +27,6 @@ bcrypt @ file:///C:/ci/bcrypt_1597936263757/work
 beautifulsoup4 @ file:///home/linux1/recipes/ci/beautifulsoup4_1610988766420/work
 bitarray @ file:///C:/ci/bitarray_1618435038389/work
 bkcharts==0.2
-black==19.10b0
 bleach==1.5.0
 blinker==1.4
 blis==0.7.4
@@ -43,16 +42,12 @@ chardet @ file:///C:/ci/chardet_1607690654534/work
 clang==5.0
 click @ file:///home/linux1/recipes/ci/click_1610990599742/work
 cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1598884132938/work
-clyent==1.2.2
 colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
 comtypes==1.1.9
-conda==4.10.1
-conda-build==3.21.4
 conda-content-trust @ file:///tmp/build/80754af9/conda-content-trust_1617045594566/work
 conda-package-handling @ file:///C:/ci/conda-package-handling_1618262320430/work
 conda-repo-cli @ file:///tmp/build/80754af9/conda-repo-cli_1620168426516/work
 conda-token @ file:///tmp/build/80754af9/conda-token_1620076980546/work
-conda-verify==3.4.2
 contextlib2==0.6.0.post1
 cryptography @ file:///C:/ci/cryptography_1616769344312/work
 cycler==0.10.0
